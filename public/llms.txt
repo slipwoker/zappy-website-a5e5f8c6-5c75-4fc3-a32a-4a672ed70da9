@@ -1,0 +1,68 @@
+# פרימיום פרינט — Generative Engine Optimization Map
+
+> ״פרימיום פרינט״ שם לו למטרה לתת מענה מקצועי לכל סוגי העסקים, גדולים כקטנים לכל עסק: אופי עבודה, הרגלים, סדרי גודל ודרישות מיוחדות
+
+---
+
+## Pages
+
+### דף הבית
+https://-a5e5f8c6.zappy5.app
+פרימיום פרינט מציעה דפוס בפורמט רחב ושירותי דפוס דיגיטלי מקצועיים למוסדות חינוך, עסקים וארגונים. איכות, דיוק ועמידה בלוחות זמנים.
+
+### שירותים
+https://-a5e5f8c6.zappy5.app/services
+גלו את מגוון שירותי הדפוס של פרימיום פרינט: דפוס בפורמט רחב, דפוס דיגיטלי, הזמנות לאירועים, שלטים ועוד. פתרונות מקצועיים למוסדות חינוך ועסקים.
+
+### אודות
+https://-a5e5f8c6.zappy5.app/about
+למדו על פרימיום פרינט - בית דפוס דיגיטלי למוסדות חינוך ועסקים המתמחה בדפוס בפורמט רחב. המחויבות שלנו לאיכות, דיוק ועמידה בלוחות זמנים.
+
+### צור קשר
+https://-a5e5f8c6.zappy5.app/contact
+צרו קשר עם פרימיום פרינט לשירותי דפוס בפורמט רחב, דפוס דיגיטלי ופתרונות דפוס מקצועיים. קבלו הצעת מחיר והתייעצות עם המומחים שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a5e5f8c6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a5e5f8c6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a5e5f8c6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרימיום פרינט
+״פרימיום פרינט״ שם לו למטרה לתת מענה מקצועי לכל סוגי העסקים, גדולים כקטנים לכל עסק: אופי עבודה, הרגלים, סדרי גודל ודרישות מיוחדות
+
+## Services/Products
+- הזמנות לאירועים
+- דפוס בפורמט רחב
+- דפוס אופסט
+- מסכי לד
+- ניירת ייצוגית
+- דפוס דיגיטלי
+- מדבקות
+- מתקני תצוגה
+- שלטים
+
+## Target Audience
+מוסדות חינוך, עיריות ורשויות מקומיות, מתנ״סים ומרכזים קהילתיים, עסקים קטנים/בינוניים, חברות/ארגונים, עמותות ומוסדות
+
+## Industry
+דפוס ועיצוב גרפי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a5e5f8c6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a5e5f8c6.zappy5.app/robots.txt
